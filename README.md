@@ -10,4 +10,5 @@ Screenshot of using the tool to try out the API: *Check hoppscotchScreenshot.jpg
 
 Example output of running Java code: *Check APITesting.java
 
-List of any technical problems blocking progress (optional):
+List of any technical problems blocking progress:
+- Difficulty in looking for APIs and figuring out how to use them
